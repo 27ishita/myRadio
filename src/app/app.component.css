@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee&family=Archivo+Black&family=Cabin:wght@600&family=Dancing+Script:wght@600;700&family=Dongle:wght@700&family=Varela+Round&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee&family=Archivo+Black&family=Cabin:wght@600&family=Dancing+Script:wght@600;700&family=Dongle:wght@700&family=Varela+Round&family=Work+Sans&display=swap");
+.header {
+  background-color: #0e1111;
+  height: 100px;
+  padding: 30px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  position: sticky;
+}
+.header > p {
+  font-family: "ABeeZee", sans-serif;
+  font-size: 32px;
+  color: white;
+}
+.list-1 {
+  background-color: #414a4c;
+}
+
+.content {
+  padding: 5px;
+}
+img {
+  height: 70px;
+  border-radius: 9px;
+}
+.content p {
+  margin-left: 32px;
+  padding: 10px;
+  font-family: "Work Sans", sans-serif;
+  color: #ffff;
+}
